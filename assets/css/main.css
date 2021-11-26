@@ -2326,8 +2326,8 @@ ul.social-link-team li a {
 
 .contact-us {
   background-color: #fff;
-  padding-top: 100px;
-  padding-bottom: 50px;
+  padding-top: 100px !important; 
+  padding-bottom: 50px !important;
 }
 
 .find-location p {
